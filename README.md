@@ -8,3 +8,4 @@
 |:--:|--------------|----------|--------|-------------|-------|----------|
 | #  | Cognoms      | Nom      | *Nom*  | *Dashboard* | *Web* | *Web*    |
 | 1  | Rocher Muñoz | Francesc | rocher | [github.com/rocher](https://github.com/rocher) | [rocher.github.io](https://rocher.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
+| 2  | Calzada Espert | Miquel | MiquelCalzada | [github.com/MiquelCalzada](https://github.com/MiquelCalzada) | [MiquelCalzada.github.io](https://MiquelCalzada.github.io) | |
