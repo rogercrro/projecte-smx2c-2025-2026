@@ -19,4 +19,4 @@
 | 10 | Adaardour Majdi   | Amin      | [uhcv](https://github.com/uhcv)                   | [uhcv.github.io](https://uhcv.github.io)                   |                                              |
 | 11 | Morazan Vasquez   | Diego     | [dimova5](https://github.com/dimova5)             | [dimova.github.io](https://dimova5.github.io)              |
 | 12 | El Majjaoui       | Hanae     | [hannae123](https://github.com/hannae123) | [hannae123.github.io](https://hannae123.github.io)      |           |
-
+| 13 | Cruz Roura        | Roger     | [rogercrro](https://github.com/rogercrro)         | [rogercrro.github.io](https://rogercrro.github.io)         |
