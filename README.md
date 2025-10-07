@@ -10,7 +10,7 @@
 | 1  | Rocher Muñoz      | Francesc  | [rocher](https://github.com/rocher)               | [rocher.github.io](https://rocher.github.io)               | [La FUSTA](http://lafusta.endinahosting.com) |
 | 2  | Morillas          | Juan      | [juanimorcor](https://github.com/juanimorcor)     | [juanimorcor.github.io](https://juanimorcor.github.io)     |                                              |
 | 3  | Calzada Espert    | Miquel    | [MiquelCalzada](https://github.com/MiquelCalzada) | [MiquelCalzada.github.io](https://MiquelCalzada.github.io) |                                              |
-| 4  | Perea Wolter      | Aran      | [AranPW](https://github.com/AranPW)               | [AranPW.github.io](https://AranPW.github.io)               | NO                                           |
+| 4  | Perea Wolter      | Aran      | [AranPW](https://github.com/AranPW)               | [AranPW.github.io](https://AranPW.github.io)               |                                              |
 | 5  | Marin Pujol       | Enzo      | [piniote](https://github.com/piniote)             | [piniote.github.io](https://piniote.github.io)             | [La FUSTA](http://lafusta.endinahosting.com) |
 | 6  | Marina Ruiz       | Aleix     | [Almaru1](https://github.com/Almaru1)             | [Almaru1.github.io](https://Almaru1.github.io)             |                                              |
 | 7  | Fernandez Montoya | Josep     | [tutevinho](https://github.com/tutevinho)         | [tutevinho.github.io](https://tutevinho.github.io)         | [x](x.com)                                   |
