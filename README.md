@@ -15,4 +15,4 @@
 | 6  | Marina Ruiz       | Aleix     | [almaru1-lgtm](https://github.com/almaru1-lgtm)   | [almaru1-lgtm.github.io](https://almaru1-lgtm.github.io)   | [La FUSTA]()                                 |
 | 7  | Fernandez Montoya | Josep     | [tutevinho](https://github.com/tutevinho)         | [tutevinho.github.io](https://tutevinho.github.io)         | [x](x.com)                                   |
 | 8  | Tarradas Surroca  | Guillem   | [gutasu](https://github.com/gutasu)               | [gutasu.github.io](https://gutasu.github.io)>
-
+| 9  | Adaardour Majdi   | Amin      | [uhcv](https://github.com/uhcv)                   | [uhcv.github.io](https://uhcv.github.io)                   |                                              |
