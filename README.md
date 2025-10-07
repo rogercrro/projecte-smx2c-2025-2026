@@ -12,7 +12,7 @@
 | 3  | Calzada Espert    | Miquel    | [MiquelCalzada](https://github.com/MiquelCalzada) | [MiquelCalzada.github.io](https://MiquelCalzada.github.io) |                                              |
 | 4  | Perea Wolter      | Aran      | [AranPW](https://github.com/AranPW)               | [AranPW.github.io](https://AranPW.github.io)               | NO                                           |
 | 5  | Marin Pujol       | Enzo      | [piniote](https://github.com/piniote)             | [piniote.github.io](https://piniote.github.io)             | [La FUSTA](http://lafusta.endinahosting.com) |
-| 6  | Marina Ruiz       | Aleix     | [almaru1-lgtm](https://github.com/almaru1-lgtm)   | [almaru1-lgtm.github.io](https://almaru1-lgtm.github.io)   |                                              |
+| 6  | Marina Ruiz       | Aleix     | [Almaru1](https://github.com/Almaru1)             | [Almaru1.github.io](https://Almaru1.github.io)             |                                              |
 | 7  | Fernandez Montoya | Josep     | [tutevinho](https://github.com/tutevinho)         | [tutevinho.github.io](https://tutevinho.github.io)         | [x](x.com)                                   |
 | 8  | Tarradas Surroca  | Guillem   | [gutasu](https://github.com/gutasu)               | [gutasu.github.io](https://gutasu.github.io)               |                                              |
 | 9  | Gagliano Rodriguez| Lucas     | [LGZV1](https://github.com/LGZV1)                 | [LGZV1.guithub.io](https://LGZV1.github.io)                | [NeoDrop](http://NeoDrop.endinahosting.com) |
