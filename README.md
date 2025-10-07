@@ -16,4 +16,4 @@
 | 7  | Fernandez Montoya | Josep     | [tutevinho](https://github.com/tutevinho)         | [tutevinho.github.io](https://tutevinho.github.io)         | [x](x.com)                                   |
 | 8  | Tarradas Surroca  | Guillem   | [gutasu](https://github.com/gutasu)               | [gutasu.github.io](https://gutasu.github.io)>
 | 9  | Gagliano Rodriguez| Lucas     | [LGZV1](https://github.com/LGZV1)                 | [LGZV1.guithub.io](https://LGZV1.github.io)                | [La Fusta](http://lafusta.endinahosting.com) |
-
+| 10 | Adaardour Majdi   | Amin      | [uhcv](https://github.com/uhcv)                   | [uhcv.github.io](https://uhcv.github.io)                   |                                              |
