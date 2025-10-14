@@ -20,3 +20,4 @@
 | 11 | Morazan Vasquez   | Diego     | [dimova5](https://github.com/dimova5)             | [dimova.github.io](https://dimova5.github.io)              |
 | 12 | El Majjaoui       | Hanae     | [hannae123](https://github.com/hannae123)         | [hannae123.github.io](https://hannae123.github.io)         | [NeoDrop](http://NeoDrop.endinahosting.com)  |
 | 13 | Cruz Roura        | Roger     | [rogercrro](https://github.com/rogercrro)         | [rogercrro.github.io](https://rogercrro.github.io)         |
+| 14 | Jaramillo Zuluaga | Juan José | [jujazu](https://github.com/jujazu)               | [jujazu.github.io](https://jujazu.github.io)       |
